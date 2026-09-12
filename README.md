@@ -6,7 +6,17 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rizwanullahmxeed" alt="rizwanullahmxeed" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+🔭 I’m currently working on **Exploring Web API Integrations & Dynamic UI Components**
 
+- 🌱 I’m currently learning **Next Skill Institute Web Development Bootcamp (HTML, CSS, JavaScript)**
+
+- 👯 I’m looking to collaborate on **Front-End Web Development & JavaScript Projects**
+
+- 🤝 I’m looking for help with **Advanced Backend Integration Concept**
+
+- 💬 Ask me about **HTML, CSS, and JavaScript,React,Node.js,Express.js**
+
+- 📫 How to reach me **https://github.com/rizwanullahmxeed**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammad rizwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad rizwan" height="30" width="40" /></a>
